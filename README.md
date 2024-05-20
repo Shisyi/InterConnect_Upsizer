@@ -11,4 +11,4 @@
 + В tb прописан вариант поведения когда входные данные задаются 4-х разрядным счётчиком, а остальные сигналы которые задаются на входе, практически соответствуют рисунку из задания.
 
 
-<img src='[Yadro.png](https://sun9-66.userapi.com/impg/KDbTcfCiufhd4H0Tsf32GlO2KT3lB1dmMfejog/5j6nJTHYfLY.jpg?size=1886x737&quality=95&sign=77ba37facfb1b56fbc77c78d6cbd88fa&type=album)'>
+<img src='(https://sun9-66.userapi.com/impg/KDbTcfCiufhd4H0Tsf32GlO2KT3lB1dmMfejog/5j6nJTHYfLY.jpg?size=1886x737&quality=95&sign=77ba37facfb1b56fbc77c78d6cbd88fa&type=album)'>
