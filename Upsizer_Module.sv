@@ -70,7 +70,7 @@ module Upsizer_Module#(
 					if (s_last_i) begin
 						m_last_o <= '1;
 						m_data_0[T_DATA_RATIO-2] <= s_data_i;
-						m_keep_o    <= 2'b10;
+						m_keep_o    <= 2'b01;
 						buffer		<= '0;
 						counter		<= '0;
 					end
